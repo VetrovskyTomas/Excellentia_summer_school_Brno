@@ -25,7 +25,7 @@ Introduction to basic statistical analysis
 <br>
 <br>
 
-### Introduction to basic statistical analysis  
+### 3) Introduction to basic statistical analysis  
 
 [R examples](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2026/Microbiome_course.pdf)  
 
