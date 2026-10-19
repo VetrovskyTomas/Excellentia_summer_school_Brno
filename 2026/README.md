@@ -12,6 +12,7 @@ Amplicon processing using pipeline SEED2
   
 Introduction to basic statistical analysis  
   
+  
 ### 1) Introduction to amplicon processing
 
 ### 2) Amplicon processing using pipeline SEED2 
