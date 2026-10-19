@@ -16,6 +16,8 @@ Introduction to basic statistical analysis
 <br>
   
 ### 1) Introduction to amplicon processing
+
+[Introduction slides](https://raw.githubusercontent.com/VetrovskyTomas/Excellentia_summer_school_Brno/main/2026/Bioinformatics_Vetrovsky_Summer_School_2026.pdf)
 <br>
 <br>
 
