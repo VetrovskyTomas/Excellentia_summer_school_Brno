@@ -16,9 +16,9 @@ Introduction to basic statistical analysis
 
 ### 2) Amplicon processing using pipeline SEED2 
   
-Download SEED2 software [SEED2](https://www.biomed.cas.cz/mbu/lbwrf/seed/)  
+[Download SEED2 software](https://www.biomed.cas.cz/mbu/lbwrf/seed/)  
   
-Fungal amplicons - ITS interactive tutorial [SEED2]([https://www.biomed.cas.cz/mbu/lbwrf/seed/](https://www.biomed.cas.cz/mbu/lbwrf/seed/ITS_TUTORIAL/SEED2_ITS_TUTORIAL.html))
+Fungal amplicons - [ITS interactive tutorial](https://www.biomed.cas.cz/mbu/lbwrf/seed/ITS_TUTORIAL/SEED2_ITS_TUTORIAL.html)
   
 
 
