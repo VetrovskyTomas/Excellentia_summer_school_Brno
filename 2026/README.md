@@ -12,6 +12,15 @@ Amplicon processing using pipeline SEED2
   
 Introduction to basic statistical analysis  
   
-### Introduction to amplicon processing
+### 1) Introduction to amplicon processing
+
+### 2) Amplicon processing using pipeline SEED2 
+  
+Download SEED2 software [SEED2](https://www.biomed.cas.cz/mbu/lbwrf/seed/)  
+  
+Fungal amplicons - ITS interactive tutorial [SEED2]([https://www.biomed.cas.cz/mbu/lbwrf/seed/](https://www.biomed.cas.cz/mbu/lbwrf/seed/ITS_TUTORIAL/SEED2_ITS_TUTORIAL.html))
+  
+
+
 
 
