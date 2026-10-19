@@ -1,4 +1,4 @@
-### Structure of the day
+### 22.10.2026 - Structure of the day
 <br>
 
 **PART 1 (9:00–10:30)**  
