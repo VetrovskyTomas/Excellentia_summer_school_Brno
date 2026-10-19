@@ -18,7 +18,7 @@ Introduction to basic statistical analysis
 
 [Introduction slides](https://raw.githubusercontent.com/VetrovskyTomas/Excellentia_summer_school_Brno/main/2026/Bioinformatics_Vetrovsky_Summer_School_2026.pdf)
 <br>
-
+<br>
 
 ### 2) Amplicon processing using pipeline SEED2 
   
@@ -33,7 +33,7 @@ Introduction to basic statistical analysis
 
 [additional graphs](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2026/Multivariate_Microbiome.pdf)
   
-
+<br>
 
 
 
