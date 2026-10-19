@@ -22,6 +22,12 @@ Introduction to basic statistical analysis
 - Download [SEED2 software](https://www.biomed.cas.cz/mbu/lbwrf/seed/)  
   
 - Fungal amplicons [ITS interactive tutorial](https://www.biomed.cas.cz/mbu/lbwrf/seed/ITS_TUTORIAL/SEED2_ITS_TUTORIAL.html)
+
+### Introduction to basic statistical analysis  
+
+[slides 1](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2026/Microbiome_course.pdf)  
+
+[slides 2](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2026/Multivariate_Microbiome.pdf)
   
 
 
