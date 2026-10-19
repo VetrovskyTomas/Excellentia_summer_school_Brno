@@ -11,7 +11,8 @@ Amplicon processing using pipeline SEED2
 **PART 3 (14:00–15:00)**  
   
 Introduction to basic statistical analysis  
-  
+<br>
+<br>
   
 ### 1) Introduction to amplicon processing
 
